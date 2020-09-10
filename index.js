@@ -1,7 +1,7 @@
 
 
 
-alert("press the volume button once");
+alert("once click on the screen for sound");
 
 let hr=document.querySelector("#hr");
 let min=document.querySelector("#mn");
