@@ -2,7 +2,7 @@
 
 
 
-
+prompt("please press the volume button");
 let hr=document.querySelector("#hr");
 let min=document.querySelector("#mn");
 let sec=document.querySelector("#sc");
